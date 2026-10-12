@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt8\\bai 1\\bai 1\\reports\\banggia.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\reports\\banggia.frx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt8\\bai 1\\bai 1\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\tester.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt8\\bai 1\\bai 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|c:\\users\\hoang quan\\source\\repos\\btlt8\\bai 1\\bai 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E8DEDFA-6DA3-7A8A-EAA0-F5769923AEAD}|Bai 1\\Bai 1.csproj|solutionrelative:bai 1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BangGia.frx",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Reports\\BangGia.frx",
+              "RelativeDocumentMoniker": "Bai 1\\Reports\\BangGia.frx",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Reports\\BangGia.frx",
+              "RelativeToolTip": "Bai 1\\Reports\\BangGia.frx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-12T03:23:20.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tester.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Tester.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Tester.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Tester.cs",
+              "RelativeToolTip": "Bai 1\\Tester.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:23:03.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Program.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Program.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Program.cs",
+              "RelativeToolTip": "Bai 1\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T03:22:56.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Form1.cs",
+              "RelativeDocumentMoniker": "Bai 1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Hoang Quan\\source\\repos\\BTLT8\\Bai 1\\Bai 1\\Form1.cs [Design]",
+              "RelativeToolTip": "Bai 1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T00:52:51.04Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
